@@ -1,3 +1,9 @@
+## 📚 Project Description
+
+This project was developed during my first year of university studies.  
+It focuses on building a responsive static website with HTML, CSS, and JavaScript,  
+with basic PHP integration for dynamic functionality preparation.
+
 ## 📁 Files Notice
 
 This repository contains only the core project files I personally developed.  
